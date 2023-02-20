@@ -1,6 +1,4 @@
 From Master01
 
-From Master+Dev01
-
-From Dev01
+From Master01
 
